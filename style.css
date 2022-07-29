@@ -1,0 +1,4 @@
+.bg-change{
+    background-color:rgba(0,0,0,0.7)!important;
+    background-blend-mode: darken;
+}
